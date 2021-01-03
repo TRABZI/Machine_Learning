@@ -1,2 +1,2 @@
 # Machine_Learning
-Codes de machine learning que j'ai réaliser 
+Codes du Machine Learning que j'ai réalisé
