@@ -32,7 +32,7 @@ En analysant les résultats de Tableau 1, on constate que l’on gagne en perfor
 
 Étant donné n est la taille de vecteur :
 
-    • La complexité de l’algorithme tri_a_bulles est de n x n
+    • La complexité de l’algorithme tri_a_bulles est de n x n  
     • la complexité de l’algorithme tri_rapide est de n x log(n)
 
 
