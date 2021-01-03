@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amine/2020_2021_Data_Science/cpp/disp_vect.h
+
+/home/amine/2020_2021_Data_Science/cpp/main.cpp
+iostream
+-
+new
+-
+vector
+-
+stdlib.h
+-
+chrono
+-
+ctime
+-
+random
+-
+quicksort.h
+/home/amine/2020_2021_Data_Science/cpp/quicksort.h
+swap_function.h
+/home/amine/2020_2021_Data_Science/cpp/swap_function.h
+disp_vect.h
+/home/amine/2020_2021_Data_Science/cpp/disp_vect.h
+test_tri.h
+/home/amine/2020_2021_Data_Science/cpp/test_tri.h
+
+/home/amine/2020_2021_Data_Science/cpp/quicksort.h
+
+/home/amine/2020_2021_Data_Science/cpp/swap_function.h
+
+/home/amine/2020_2021_Data_Science/cpp/test_tri.h
+

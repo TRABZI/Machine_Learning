@@ -1,0 +1,4 @@
+/home/amine/2020_2021_Data_Science/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/amine/2020_2021_Data_Science/cpp/build/CMakeFiles/edit_cache.dir
+/home/amine/2020_2021_Data_Science/cpp/build/CMakeFiles/main.dir
+/home/amine/2020_2021_Data_Science/cpp/build/CMakeFiles/pqt.dir
