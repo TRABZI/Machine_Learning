@@ -40,6 +40,3 @@ En analysant les résultats de Tableau 1, on constate que l’on gagne en perfor
 -> Conclusion:
   ************
 Le tri d’un vecteur v a été réalisé avec succès avec deux méthodes différentes. L’analyse des résultats a prouvé que l’algorithme ayant une complexité inférieure (càd tri_rapide) est meilleure en terme de performance pour différentes tailles de vecteur.
-=======
-Codes du Machine Learning que j'ai réalisé
->>>>>>> 8455e87b8b8bfe5653770b20b1994cc1160ac413
